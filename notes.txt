@@ -1,0 +1,4 @@
+TODO:
+  1.  Remove Bug
+  - 
+  2.  Make it work for longer generations
